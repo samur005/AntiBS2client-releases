@@ -2,6 +2,8 @@
 
 Релизы Android-клиента **AntiBS2client** (пакет `fun.antibs.client`).
 
+Текущая версия: **1.0.50** (versionCode 51).
+
 - Скачать: [последний релиз](https://github.com/samur005/antibs-client-apk/releases/latest)
 - `…-arm64-v8a.apk` — для большинства телефонов, `…-universal.apk` — arm64 + x86_64.
 - Контрольные суммы — `SHA256SUMS.txt` в каждом релизе.

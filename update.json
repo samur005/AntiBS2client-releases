@@ -1,31 +1,31 @@
 {
   "app": "AntiBS2client",
   "package": "fun.antibs.client",
-  "version": "1.0.41",
-  "versionCode": 42,
-  "tag": "v1.0.41",
+  "version": "1.0.50",
+  "versionCode": 51,
+  "tag": "v1.0.50",
   "releaseApi": "https://api.github.com/repos/samur005/antibs-client-apk/releases/latest",
-  "releasePage": "https://github.com/samur005/antibs-client-apk/releases/tag/v1.0.41",
+  "releasePage": "https://github.com/samur005/antibs-client-apk/releases/tag/v1.0.50",
   "minSdk": 26,
   "targetSdk": 36,
   "apks": {
     "arm64-v8a": {
-      "name": "AntiBS2client-1.0.41-arm64-v8a.apk",
-      "url": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.41/AntiBS2client-1.0.41-arm64-v8a.apk",
-      "size": 88164132,
-      "sha256": "32709aa46bde62b4ac3d58b996de90e2680ba3593ea8132b2f16014f7b8fa293"
+      "name": "AntiBS2client-1.0.50-arm64-v8a.apk",
+      "url": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.50/AntiBS2client-1.0.50-arm64-v8a.apk",
+      "size": 88466736,
+      "sha256": "da10b634355a0a8e1ec76f33ff100be4f1f7835643ce11e2a9f74b62b18c7a24"
     },
     "universal": {
-      "name": "AntiBS2client-1.0.41-universal.apk",
-      "url": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.41/AntiBS2client-1.0.41-universal.apk",
-      "size": 159904508,
-      "sha256": "870cccf634217c997aaf1924a6f815034ab46b03e0419c27bf1a43a095d1c2fa",
+      "name": "AntiBS2client-1.0.50-universal.apk",
+      "url": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.50/AntiBS2client-1.0.50-universal.apk",
+      "size": 160207108,
+      "sha256": "e04bb16a1e045e8e679ea9c2004f71fde62ab9f41a0017a477a04d3e562eb22e",
       "abis": [
         "arm64-v8a",
         "x86_64"
       ]
     }
   },
-  "sha256sums": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.41/SHA256SUMS.txt",
+  "sha256sums": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.50/SHA256SUMS.txt",
   "signingCertSha256": "745c951b3ca3d2b462e9c656df81bff446f7dbd5d305ae3445a2af67f3f6751c"
 }
