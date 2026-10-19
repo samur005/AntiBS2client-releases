@@ -1,31 +1,47 @@
 {
   "app": "AntiBS2client",
   "package": "fun.antibs.client",
-  "version": "1.0.52",
-  "versionCode": 53,
-  "tag": "v1.0.52",
-  "releaseApi": "https://api.github.com/repos/samur005/antibs-client-apk/releases/latest",
-  "releasePage": "https://github.com/samur005/antibs-client-apk/releases/tag/v1.0.52",
+  "version": "1.0.53",
+  "versionCode": 54,
+  "tag": "v1.0.53",
+  "releaseApi": "https://api.github.com/repos/samur005/AntiBS2client-releases/releases/latest",
+  "releasePage": "https://github.com/samur005/AntiBS2client-releases/releases/tag/v1.0.53",
   "minSdk": 26,
   "targetSdk": 36,
   "apks": {
     "arm64-v8a": {
-      "name": "AntiBS2client-1.0.52-arm64-v8a.apk",
-      "url": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.52/AntiBS2client-1.0.52-arm64-v8a.apk",
-      "size": 88479752,
-      "sha256": "8990041f354453a76b3d9fac08c8a07f02e8c49e5595eb99475871e31645e373"
+      "name": "AntiBS2client-1.0.53-arm64-v8a.apk",
+      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v1.0.53/AntiBS2client-1.0.53-arm64-v8a.apk",
+      "size": 88501976,
+      "sha256": "43cfb9dbd0205e4dea7b56f070b652a0b3a1d2ceaae26aad970d93ab6b1d1c96"
     },
     "universal": {
-      "name": "AntiBS2client-1.0.52-universal.apk",
-      "url": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.52/AntiBS2client-1.0.52-universal.apk",
-      "size": 160220124,
-      "sha256": "b32853a55240b7c6c8e93fe51a7b18eb6dd6a03e5eeed476ad7a44a9028dfad0",
+      "name": "AntiBS2client-1.0.53-universal.apk",
+      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v1.0.53/AntiBS2client-1.0.53-universal.apk",
+      "size": 160242348,
+      "sha256": "9669a4b7cf7d8810a2dd88ce19a6ba0c553b34233b9def4a50e465776255d15d",
       "abis": [
         "arm64-v8a",
         "x86_64"
       ]
     }
   },
-  "sha256sums": "https://github.com/samur005/antibs-client-apk/releases/download/v1.0.52/SHA256SUMS.txt",
+  "windows": {
+    "version": "1.0.53",
+    "arch": "x64",
+    "setup": {
+      "name": "AntiBS2client-1.0.53-windows-x64-setup.exe",
+      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v1.0.53/AntiBS2client-1.0.53-windows-x64-setup.exe",
+      "size": 131125374,
+      "sha256": "32338f1654cc1e5378e3d8be750108d9863398f3ff350553ecfd590992c1363f"
+    },
+    "portable": {
+      "name": "AntiBS2client-1.0.53-windows-x64-portable.zip",
+      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v1.0.53/AntiBS2client-1.0.53-windows-x64-portable.zip",
+      "size": 150455905,
+      "sha256": "d79680a2c84890f258c1cc823fbde39dccf961194567bd484379cc036ee926c3"
+    }
+  },
+  "sha256sums": "https://github.com/samur005/AntiBS2client-releases/releases/download/v1.0.53/SHA256SUMS.txt",
   "signingCertSha256": "745c951b3ca3d2b462e9c656df81bff446f7dbd5d305ae3445a2af67f3f6751c"
 }
