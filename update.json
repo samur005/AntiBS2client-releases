@@ -1,25 +1,25 @@
 {
   "app": "AntiBS2client",
   "package": "fun.antibs.client",
-  "version": "2.0.2",
-  "versionCode": 65,
-  "tag": "v2.0.2",
+  "version": "2.0.5",
+  "versionCode": 66,
+  "tag": "v2.0.5",
   "releaseApi": "https://api.github.com/repos/samur005/AntiBS2client-releases/releases/latest",
-  "releasePage": "https://github.com/samur005/AntiBS2client-releases/releases/tag/v2.0.2",
+  "releasePage": "https://github.com/samur005/AntiBS2client-releases/releases/tag/v2.0.5",
   "minSdk": 26,
   "targetSdk": 36,
   "apks": {
     "arm64-v8a": {
-      "name": "AntiBS2client-2.0.2-arm64-v8a.apk",
-      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.2/AntiBS2client-2.0.2-arm64-v8a.apk",
-      "size": 89770672,
-      "sha256": "bd3b39c592edb2a033c81165ff7acd84b7a27257237749fb4851b9baead1d94f"
+      "name": "AntiBS2client-2.0.5-arm64-v8a.apk",
+      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.5/AntiBS2client-2.0.5-arm64-v8a.apk",
+      "size": 89771044,
+      "sha256": "a45174ac1147c05cb1e4e105d20952c70338397ac7c9d8e84acb4335d83e2e46"
     },
     "universal": {
-      "name": "AntiBS2client-2.0.2-universal.apk",
-      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.2/AntiBS2client-2.0.2-universal.apk",
-      "size": 161748972,
-      "sha256": "3ce3974986e0cdae41d08d3fddd2c204c6d197a8b5f284adb24d4b95682d058c",
+      "name": "AntiBS2client-2.0.5-universal.apk",
+      "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.5/AntiBS2client-2.0.5-universal.apk",
+      "size": 161749340,
+      "sha256": "ee70f36e5d1a84dcafb4ec501f5d5f98131eec8e6bea488578da29d9d100633f",
       "abis": [
         "arm64-v8a",
         "x86_64"
@@ -42,6 +42,6 @@
       "sha256": "d79680a2c84890f258c1cc823fbde39dccf961194567bd484379cc036ee926c3"
     }
   },
-  "sha256sums": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.2/SHA256SUMS.txt",
+  "sha256sums": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.5/SHA256SUMS.txt",
   "signingCertSha256": "745c951b3ca3d2b462e9c656df81bff446f7dbd5d305ae3445a2af67f3f6751c"
 }
