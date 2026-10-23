@@ -12,14 +12,14 @@
     "arm64-v8a": {
       "name": "AntiBS2client-2.0.5-arm64-v8a.apk",
       "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.5/AntiBS2client-2.0.5-arm64-v8a.apk",
-      "size": 89771044,
-      "sha256": "a45174ac1147c05cb1e4e105d20952c70338397ac7c9d8e84acb4335d83e2e46"
+      "size": 89775576,
+      "sha256": "67eecb5136ce022fb8037037896adee5a11e553b7425769af6998267cb0d9413"
     },
     "universal": {
       "name": "AntiBS2client-2.0.5-universal.apk",
       "url": "https://github.com/samur005/AntiBS2client-releases/releases/download/v2.0.5/AntiBS2client-2.0.5-universal.apk",
-      "size": 161749340,
-      "sha256": "ee70f36e5d1a84dcafb4ec501f5d5f98131eec8e6bea488578da29d9d100633f",
+      "size": 161753876,
+      "sha256": "dd35011ea10e65991d2882affa5a932f60d1d934f6a4fcaf9e68655807f92f8c",
       "abis": [
         "arm64-v8a",
         "x86_64"
